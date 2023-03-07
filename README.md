@@ -1,4 +1,4 @@
-![ToDoApp](https://user-images.githubusercontent.com/75710628/223286798-ae42012b-9225-42a5-b32a-509a6f8eb340.png)
+![ToDoAppDemo](https://user-images.githubusercontent.com/75710628/223301658-e731ac05-4b1e-4836-b946-f9f603af6c95.gif)
 
 # ToDoAp
 This is a simple React Native application that allows users to create a to-do list, mark items as completed and move them to a "done" list.
